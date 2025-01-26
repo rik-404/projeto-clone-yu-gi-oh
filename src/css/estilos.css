@@ -61,7 +61,7 @@ body {
 .cartao .estrela {
     width: 20px;
     height: 20px;
-    background-image: url(./src/imagens/nivel-carta.png);
+    background-image: url(../imagens/nivel-carta.png);
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block
