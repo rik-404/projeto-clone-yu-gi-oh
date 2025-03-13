@@ -15,11 +15,11 @@ Este projeto foi desenvolvido durante a **Semana do 0 ao Programador Contratado*
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/clone-yugioh.git
+   git clone https://github.com/rik-404/projeto-clone-yu-gi-oh.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd clone-yugioh
+   cd projeto-clone-yu-gi-oh
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
